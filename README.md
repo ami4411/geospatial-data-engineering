@@ -116,7 +116,11 @@ If this were being used as part of a professional portfolio, I would prioritise:
 
 ## Licence
 
-Use whatever licence suits your broader portfolio strategy. If you intend this repo mainly as a public technical reference, an MIT licence is often the least painful option.
+This repository is released under the MIT Licence.
+
+Unless otherwise stated, the code, notebooks, runbooks, and documentation in this repository may be used, modified, and distributed under the terms of the MIT License.
+
+See the `LICENSE` file for the full licence text.
 
 ## Final note
 
