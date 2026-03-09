@@ -16,7 +16,7 @@ flowchart TD
     C --> D[CRS Harmonisation]
     D --> E[Spatial Processing]
     E --> F[Aggregation & Analysis]
-    F --> G[Visualisation / Reporting]```
+    F --> G[Visualisation / Reporting]
 
 Each stage plays a different role in ensuring spatial data can be used reliably and efficiently.
 
