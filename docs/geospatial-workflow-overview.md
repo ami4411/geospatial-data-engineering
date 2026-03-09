@@ -9,21 +9,14 @@ In practice, geospatial analysis rarely happens in a single tool. Mature workflo
 
 ## High-Level Workflow
 
-A simplified geospatial processing pipeline can be described as follows:
-
-Data Sources
-    ↓
-Data Ingestion
-    ↓
-Data Cleaning & Validation
-    ↓
-Coordinate Reference System Harmonisation
-    ↓
-Spatial Processing
-    ↓
-Aggregation & Analysis
-    ↓
-Visualisation / Reporting
+```mermaid
+flowchart TD
+    A[Data Sources] --> B[Data Ingestion]
+    B --> C[Data Cleaning & Validation]
+    C --> D[CRS Harmonisation]
+    D --> E[Spatial Processing]
+    E --> F[Aggregation & Analysis]
+    F --> G[Visualisation / Reporting]```
 
 Each stage plays a different role in ensuring spatial data can be used reliably and efficiently.
 
