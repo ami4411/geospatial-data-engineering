@@ -34,8 +34,7 @@ def benchmark_spatial_join(left_path: str, right_path: str, predicate: str = "in
     print(f"Matches:     {len(result):,}")
     print(f"Predicate:   {predicate}")
     print(f"Elapsed:     {duration:.3f} seconds")
-    print("
-Interpretation:")
+    print("Interpretation:")
     print("- Compare runs across file formats, dataset sizes, and indexing strategies.")
     print("- Keep CRS consistent before benchmarking.")
     print("- Avoid drawing conclusions from one tiny sample dataset.")
