@@ -105,15 +105,6 @@ A few principles guide what gets added here:
 3. **Opinion is allowed.** A repository like this should show technical judgement, not just assemble snippets.
 4. **Clear writing matters.** Senior technical work includes explaining trade-offs in plain language.
 
-## Suggested next steps for strengthening the repo
-
-If this were being used as part of a professional portfolio, I would prioritise:
-
-- adding one end-to-end worked example with data, code, and conclusions
-- expanding the benchmark scripts into a proper comparison suite
-- documenting assumptions, limitations, and engineering decisions more explicitly
-- adding tests and environment setup notes so the work looks maintained
-
 ## Licence
 
 This repository is released under the MIT Licence.
