@@ -122,6 +122,3 @@ Unless otherwise stated, the code, notebooks, runbooks, and documentation in thi
 
 See the `LICENSE` file for the full licence text.
 
-## Final note
-
-This repository is deliberately written in a practitioner’s voice. It is less about showing that I know the names of geospatial tools, and more about showing that I know where they fit, where they fail, and how to choose between them.
