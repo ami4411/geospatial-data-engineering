@@ -15,15 +15,14 @@ Rather than trying to be a catalogue of every geospatial library under the sun, 
 
 ## What this repo is for
 
-This is intended to demonstrate capability in:
+This repo focuses on practical work in:
 
-- geospatial data science
-- spatial data engineering
-- geospatial systems design
-- performance-aware analytical coding
-- practical technical communication
+- spatial data workflows
+- geospatial storage and processing decisions
+- performance-aware spatial analysis
+- reproducible geospatial examples
 
-It is also meant to be a useful reference point for other practitioners. I would rather publish a smaller repository with clear judgement than a bloated one full of copied examples.
+The aim is to keep the repository small and useful, with examples and notes that reflect real engineering trade-offs rather than broad coverage.
 
 ## Who it is aimed at
 
