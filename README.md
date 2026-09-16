@@ -88,13 +88,15 @@ Satellite / sensor / admin boundary data
 - a practical stack note on where different tools fit
 - a short set of resources worth keeping to hand
 
-## What I plan to add
+## What I Plan to Add
 
-- more rigorous benchmark suites comparing GeoPandas, DuckDB, and PostGIS
-- reproducible examples using GeoParquet and STAC-style catalogues
-- short case studies on urban analytics, environmental monitoring, and network accessibility
-- patterns for feature engineering from spatial and temporal data
-- better packaging and CI for repeatable benchmark runs
+| Status | Area | Planned Work |
+|---|---|---|
+| ☐ | **Benchmarking** | Build more rigorous benchmark suites comparing GeoPandas, DuckDB, and PostGIS across representative spatial workloads. |
+| ☐ | **Geospatial Storage** | Add reproducible examples using GeoParquet and STAC-style catalogues. |
+| ☐ | **Case Studies** | Add short case studies covering urban analytics, environmental monitoring, and network accessibility. |
+| ☐ | **Spatial Feature Engineering** | Document patterns for feature engineering from spatial and temporal data. |
+| ☐ | **Engineering & CI** | Improve packaging and CI to support repeatable benchmark runs. |
 
 ## Design principles for this repository
 
